@@ -10,4 +10,4 @@ The extension will change the CSS property `min-width` to `0px` in some HTML nod
 
 This extension is published on https://chrome.google.com/webstore/detail/lc-nowidth/pjilfaboejechekcdhmnhaddnickhdda
 
-This extension is open-source on 
+This extension is open-source on https://github.com/qingpeng9802/lc-nowidth
